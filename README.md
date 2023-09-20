@@ -1,5 +1,5 @@
 # Projects
-### Projetos e estudos
+Projetos e estudos
 
 ## Python
 - [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
@@ -33,7 +33,7 @@
 - [Repositório de Testes](https://github.com/driuzzo/qa.teste-de-software.MARKDOWN)
 
 ## Presentations
-[Apresentações sobre Teste de Software](https://github.com/driuzzo/presentations)
+- [Apresentações sobre Teste de Software](https://github.com/driuzzo/presentations)
 
 ## Test Cycle
 - [O dia a dia de um QA](https://github.com/driuzzo/DIO-dia-a-dia-QA)
