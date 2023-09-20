@@ -1,6 +1,5 @@
 # Projects
-
-Projetos e estudos
+### Projetos e estudos
 
 ## Python
 - [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
@@ -23,7 +22,7 @@ Projetos e estudos
 ## Selenium
 - [Automação Amazon](https://github.com/driuzzo/amazon_automation)
 
-#Postman
+## Postman
 - [Trello API Testing](https://github.com/driuzzo/trello-api)
 - [Grocery Store API Testing](https://github.com/driuzzo/simple-grocery-store-API)
 - [Postman Tests at httpbin](https://github.com/driuzzo/httpbin-postman-tests)
@@ -33,7 +32,7 @@ Projetos e estudos
 - [Tradução da documentação do Cypress](https://github.com/driuzzo/cypress-docs-pt-br)
 - [Repositório de Testes](https://github.com/driuzzo/qa.teste-de-software.MARKDOWN)
 
-#Presentations
+## Presentations
 [Apresentações sobre Teste de Software](https://github.com/driuzzo/presentations)
 
 ## Test Cycle
