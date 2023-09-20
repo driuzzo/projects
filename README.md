@@ -1,5 +1,4 @@
-# Projects
-Projetos e estudos
+# Projetos e estudos
 
 ## Python
 - [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
