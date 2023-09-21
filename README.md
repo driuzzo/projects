@@ -15,9 +15,6 @@
 - [Postman Tests at httpbin](https://github.com/driuzzo/httpbin-postman-tests)
 - [Postman Collections](https://github.com/driuzzo/postman-collection-git-example)
 
-## Selenium
-- [Automação Amazon](https://github.com/driuzzo/amazon_automation)
-
 ## Python
 - [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
   
