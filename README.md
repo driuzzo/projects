@@ -1,13 +1,4 @@
 # Projetos e estudos
-
-## Python
-- [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
-  
-## JavaScript
-- [Curso de JavaScript - Microsoft](https://github.com/driuzzo/curso-javascript-microsoft)
-  
-## JUnit
-- [Teste de unidade com JUnit](https://github.com/driuzzo/junit5-exemplos)
   
 ## Cypress
 - [Curso básico de Cypress](https://github.com/driuzzo/curso-cypress-tat)
@@ -27,6 +18,15 @@
 
 ## Selenium
 - [Automação Amazon](https://github.com/driuzzo/amazon_automation)
+
+## Python
+- [Learn Python the Hard Way](https://github.com/driuzzo/learn-python-the-hard-way-exercicios)
+  
+## JavaScript
+- [Curso de JavaScript - Microsoft](https://github.com/driuzzo/curso-javascript-microsoft)
+  
+## JUnit
+- [Teste de unidade com JUnit](https://github.com/driuzzo/junit5-exemplos)
   
 ## Collaborations
 - [Tradução da documentação do Cypress](https://github.com/driuzzo/cypress-docs-pt-br)
