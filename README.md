@@ -18,8 +18,6 @@
 - [Cypress Real World App](https://github.com/driuzzo/cypress-realworld-app)
 - [Jsonplaceholder API Testing](https://github.com/driuzzo/jsonplaceholder-api)
 
-## Selenium
-- [Automação Amazon](https://github.com/driuzzo/amazon_automation)
 
 ## Postman
 - [Trello API Testing](https://github.com/driuzzo/trello-api)
@@ -27,6 +25,9 @@
 - [Postman Tests at httpbin](https://github.com/driuzzo/httpbin-postman-tests)
 - [Postman Collections](https://github.com/driuzzo/postman-collection-git-example)
 
+## Selenium
+- [Automação Amazon](https://github.com/driuzzo/amazon_automation)
+  
 ## Collaborations
 - [Tradução da documentação do Cypress](https://github.com/driuzzo/cypress-docs-pt-br)
 - [Repositório de Testes](https://github.com/driuzzo/qa.teste-de-software.MARKDOWN)
