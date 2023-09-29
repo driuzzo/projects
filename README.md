@@ -3,6 +3,7 @@
 ## Cypress
 - [Curso básico de Cypress](https://github.com/driuzzo/curso-cypress-tat)
 - [Curso intermediário de Cypress](https://github.com/driuzzo/cypress-intermediario-v2)
+- [Curso avançado de Cypress](https://github.com/driuzzo/curso-cypress-avancado)
 - [Curso Testes E2E com Cypress](https://github.com/driuzzo/testes-e2e-com-cypress-tat)
 - [Curso de Cypress com Percy](https://github.com/driuzzo/curso-cypress-percy)
 - [Sauce Demo Tests](https://github.com/driuzzo/sauce_demo)
