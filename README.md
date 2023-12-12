@@ -22,6 +22,9 @@
   
 ## JavaScript
 - [Curso de JavaScript - Microsoft](https://github.com/driuzzo/curso-javascript-microsoft)
+
+## Sinon JS
+- [Stub com sinon js](https://github.com/driuzzo/sinon-demo)
   
 ## JUnit
 - [Teste de unidade com JUnit](https://github.com/driuzzo/junit5-exemplos)
