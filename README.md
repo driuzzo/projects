@@ -11,6 +11,9 @@
 - [Cypress Real World App](https://github.com/driuzzo/cypress-realworld-app)
 - [Jsonplaceholder API Testing](https://github.com/driuzzo/jsonplaceholder-api)
 
+## Playwright
+- [Playwright com Java](https://github.com/driuzzo/playwright-java)
+
 ## Postman
 - [Trello API Testing](https://github.com/driuzzo/trello-api)
 - [Grocery Store API Testing](https://github.com/driuzzo/simple-grocery-store-API)
