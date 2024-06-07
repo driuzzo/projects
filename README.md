@@ -7,6 +7,7 @@
 
   <a name="cypress"></a>
   
+  - [Cypress FAQ - Projeto Colaborativo](https://github.com/driuzzo/cypress-faq)
   - [Curso básico de Cypress](https://github.com/driuzzo/curso-cypress-tat)
   - [Curso intermediário de Cypress](https://github.com/driuzzo/cypress-intermediario-v2)
   - [Curso avançado de Cypress](https://github.com/driuzzo/curso-cypress-avancado)
